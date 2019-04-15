@@ -1,0 +1,1 @@
+# Dermatology-disease-detection-using-machine-learning-in-Django-framework
